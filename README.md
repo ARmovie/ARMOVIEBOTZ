@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="" alt="Eva Maria Logo">
+  <img src="assets/logo.jpg" alt="Eva Maria Logo">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>BLACK CATZ</b>
 </h1>
 
 
